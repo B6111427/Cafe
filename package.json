@@ -1,0 +1,23 @@
+{
+  "name": "CafeB6111427",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B6111427/CafeB6111427.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B6111427/CafeB6111427/issues"
+  },
+  "homepage": "https://github.com/B6111427/CafeB6111427#readme",
+  "dependencies": {
+    "web3": "^0.20.7"
+  }
+}
